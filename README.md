@@ -21,8 +21,8 @@ This project is a frontend clone of Netflix, built to replicate the user interfa
 
 ## Screenshots
 
-![Homepage](path/to/homepage-screenshot.png)
-![Details Page](path/to/details-page-screenshot.png)
+![Homepage]
+![Details Page]
 
 ## Technologies Used
 
@@ -38,5 +38,5 @@ This project is a frontend clone of Netflix, built to replicate the user interfa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/netflix-clone-frontend.git
+   git clone https://github.com/samitwadhwa/netflix-clone-frontend.git
    cd netflix-clone-frontend
