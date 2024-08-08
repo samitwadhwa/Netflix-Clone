@@ -21,8 +21,10 @@ This project is a frontend clone of Netflix, built to replicate the user interfa
 
 ## Screenshots
 
-![Homepage]
-![Details Page]
+![image](https://github.com/user-attachments/assets/e6af14c5-402c-4d86-a909-f17282b48025)
+
+![image](https://github.com/user-attachments/assets/1058adeb-0312-4354-88d5-90a92392ee36)
+
 
 ## Technologies Used
 
